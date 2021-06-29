@@ -10,40 +10,37 @@
 
 <p align='center'>
   
-  <a href="https://www.linkedin.com/in/facundopadilla/">
+  <a href="https://www.linkedin.com/in/deniswou/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/deniswou/">
+  <a href="https://t.me/deniswou">
     <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=facundopadilla&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=deniswou&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 <p align='center'>
   💻 My workspace<br/><br/>
-  <img src="https://img.shields.io/badge/ubuntu-orange.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/amd-ryzen%202200g%20-red.svg?&style=for-the-badge&logo=amd&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/nvidia-gtx%201050-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/windows 10-blue.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/i7-10700K-blue.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nvidia RTX-3060 TI-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
-<p align='center'>
-  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
-</p>
 
 <!-- <details align='center'>
   <summary>:zap: My workspace specs</summary>
 </details>-->
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:facundo.padilla@outlook.com'>facundo.padilla@outlook.com</a>
+  📫 How to reach me: <a href='mailto:deniswouh@gmail.com'>deniswouh@gmail.com</a>
 </p>
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/facundopadilla/facundopadilla"></a>
+  <a href="#"><img src="https://badges.pufler.dev/visits/deniswou/deniswou"></a>
 </p>
 
 
