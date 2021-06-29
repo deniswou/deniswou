@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Developer from Paraguay.
+  Music Producer & Developer from Paraguay.
 </p>
 
 
@@ -15,6 +15,12 @@
   </a>&nbsp;&nbsp;
   <a href="https://t.me/deniswou">
     <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://open.spotify.com/artist/4YTB6kKNaJtOrh2giR9rIP">
+    <img src="https://img.shields.io/badge/spotify-%6441A5.svg?&style=for-the-badge&logo=spotify&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+    <a href="https://www.twitch.tv/deniswou">
+    <img src="https://img.shields.io/badge/twitch-purple.svg?&style=for-the-badge&logo=twitch&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
 </p>
