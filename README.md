@@ -19,9 +19,9 @@
     <img src="https://img.shields.io/badge/twitch-purple.svg?&style=for-the-badge&logo=twitch&logoColor=white" />        
   </a>&nbsp;&nbsp; 
 </p>
-<!-- <p align='center'>
+<p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=deniswou&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>-->
+</p>
 <p align='center'>
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/windows 10-blue.svg?&style=for-the-badge&logo=windows&logoColor=white" />
