@@ -1,13 +1,9 @@
 <h1 align='center'>
   Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30"> I'm Denis 👨‍💻
 </h1>
-
 <p align='center'>
   Music Producer & Developer from Paraguay.
 </p>
-
-
-
 <p align='center'>
   
   <a href="https://www.linkedin.com/in/deniswou/">
@@ -21,14 +17,11 @@
   </a>&nbsp;&nbsp;
     <a href="https://www.twitch.tv/deniswou">
     <img src="https://img.shields.io/badge/twitch-purple.svg?&style=for-the-badge&logo=twitch&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  
+  </a>&nbsp;&nbsp; 
 </p>
-
-<p align='center'>
+<!-- <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=deniswou&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
-
+</p>-->
 <p align='center'>
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/windows 10-blue.svg?&style=for-the-badge&logo=windows&logoColor=white" />
@@ -36,8 +29,6 @@
   <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Nvidia RTX-3060 TI-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
-
-
 <!-- <details align='center'>
   <summary>:zap: My workspace specs</summary>
 </details>-->
