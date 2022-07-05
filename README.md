@@ -37,7 +37,7 @@
   📫 How to reach me: <a href='mailto:deniswouh@gmail.com'>deniswouh@gmail.com</a>
 </p>
 <p align='center'>
-  <a href="#">![visitor badge](https://visitor-badge.glitch.me/badge?page_id=deniswou.visitor-badge)</a>
+  <a href="#">https://visitor-badge.glitch.me/badge?page_id=deniswou.visitor-badge</a>
 </p>
 
 
