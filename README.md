@@ -1,13 +1,17 @@
+![image](https://user-images.githubusercontent.com/33464344/179369490-662956a5-8360-4130-993f-5c5cd87847d2.png)
 <h1 align='center'>
-  Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30"> I'm Denis 👨‍💻
+  Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30"> I'm Denis 
 </h1>
 <p align='center'>
-  Music Producer & Jr. Developer from Paraguay.
+  Music Producer & Jr. Developer from Paraguay👨‍💻
 </p>
 <p align='center'>
   
   <a href="https://www.linkedin.com/in/deniswou/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+    <a href="https://www.behance.net/deniswou">
+    <img src="https://img.shields.io/badge/behance-%230077B5.svg?&style=for-the-badge&logo=behance&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://t.me/deniswou">
     <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />        
@@ -36,24 +40,3 @@
 <p align='center'>
   📫 How to reach me: <a href='mailto:deniswouh@gmail.com'>deniswouh@gmail.com</a>
 </p>
-<!--
-<p align='center'>
-  <a href="#">![visitor badge](https://visitor-badge.glitch.me/badge?page_id=deniswou.visitor-badge)</a>
-</p>-->
-
-
-
-<!--
-**deniswou/deniswou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
