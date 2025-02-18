@@ -3,7 +3,7 @@
   Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30"> I'm Denis 
 </h1>
 <p align='center'>
-  Music Producer & Jr. Developer from Paraguay👨‍💻
+  Music Producer & Software Engineer from Paraguay👨‍💻
 </p>
 
 <p align='center'>
@@ -31,18 +31,22 @@
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="npm-github-profile-awesome-beautiful" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="npm-github-profile-awesome-beautiful" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="npm-github-profile-awesome-beautiful" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="npm-github-profile-awesome-beautiful" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="npm-github-profile-awesome-beautiful" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="npm-github-profile-awesome-beautiful" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="kotlin" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm-github-profile-awesome-beautiful" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg" alt="npm-github-profile-awesome-beautiful" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="npm-github-profile-awesome-beautiful" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify-github-profile-awesome-beautiful" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku-github-profile-awesome-beautiful" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="heroku-github-profile-awesome-beautiful" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="git" width="40" height="40"/>
